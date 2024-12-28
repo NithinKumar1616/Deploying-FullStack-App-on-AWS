@@ -1,0 +1,9 @@
+Domain Name Integration
+
+Purchased a domain name and created a hosted zone in AWS Route 53.
+
+Added the Name Server (NS) records to Hostinger to link the domain with Route 53.
+
+Created individual DNS records for the IP addresses of the backend, database, and frontend servers.
+
+Updated the project: Deploying a Full-Stack Application Using EC2 Instances: A Step-by-Step Guide to replace IP addresses with the new domain hostnames for cleaner and more manageable access
